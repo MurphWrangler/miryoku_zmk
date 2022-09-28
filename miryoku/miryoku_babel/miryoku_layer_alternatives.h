@@ -27,7 +27,7 @@ U_NP,              U_NP,              &lt U_FUN DEL,     &lt U_NUM BSPC,    &lt 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDH_FLIP \
 &ht_hp ESC Q,             &kp W,             &kp F,             &kp P,             &kp B,             &kp J,             &kp L,             &kp U,             &kp Y,             &kp SQT,           \
 &hm LGUI A,        &hm LALT R,        &hm LCTRL S,       &hm LSHFT T,       &kp G,             &kp M,             &hm LSHFT N,       &hm LCTRL E,       &hm LALT I,        &hm LGUI O,        \
-&lt U_BUTTON Z,    &hm RALT X,        &ht_hp LC(C) C,             &ht_hp LC(V) D,             &ht_hpLC(LALT(V) V,             &kp K,             &kp H,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
+&lt U_BUTTON Z,    &hm RALT X,        &ht_hp LC(C) C,             &ht_hp LC(V) D,             &ht_hpLC(LALT(V)) V,             &kp K,             &kp H,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
 U_NP,              U_NP,              &lt U_FUN DEL,     &lt U_SYM TAB,    &lt U_NUM BSPC,     &lt U_NAV SPC,   &lt U_MOUSE RET,     &lt U_MEDIA ESC,   U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDHK_FLIP \
